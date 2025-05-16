@@ -5,13 +5,13 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building **high-performance APIs**, integrating **microservices**, and managing **cloud infrastructure** at [Your Company Name].
-- 👨‍💻 With over **X+ years** of experience in **backend development**, I've worked with **Python (Django/DRF, FastAPI)**, **Node.js**, **MongoDB**, and **PostgreSQL**.
+- 🔭 I’m currently building **high-performance APIs**, integrating **microservices**, and managing **cloud infrastructure** at Infotura Technologies.
+- 👨‍💻 With over **4+ years** of experience in **backend development**, I've worked with **Python (Django/DRF, FastAPI)**, **MongoDB**, and **PostgreSQL**.
 - 🧠 Passionate about system design, performance optimization, and secure architecture.
 - 🌐 I love contributing to open-source and mentoring junior developers.
 - 💬 Ask me about **scaling databases**, **REST APIs**, **DevOps**, or **cloud infrastructure** (AWS, Docker, CI/CD).
-- 📫 Reach me at: [you@example.com](mailto:you@example.com)
-- 📝 Checkout my resume: [Link to Resume or Portfolio]
+- 📫 Reach me at: [sumithsudheer66@gmail.com](mailto:sumithsudheer66@gmail.com)
+
 
 ---
 
@@ -51,12 +51,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SumithSudheer&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SumithSudheer&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yourusername&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=SumithSudheer&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -64,8 +64,8 @@
 ### 🌍 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/sumith-sudheer-b35304222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sumithsudheer66@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=firefox&logoColor=white"/></a>
 </p>
 
